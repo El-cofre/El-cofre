@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://youtube.com/@elcofremc?si=5hhTVLwOrX7IXvsH">El cofre</a> 👋</h1>
+</div>
 
-<!--
-**El-cofre/El-cofre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://github.com/user-attachments/assets/7677a6c6-3b09-48c8-8047-25111a2e1404)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/@elcofremc?si=5hhTVLwOrX7IXvsH)
+![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
+
+## Sobre mi
+
+- ⭐ Github Star ⭐ 
+- 👾 Minecraft developer
+- 🍃 Te enseño a configurar servidores de minecraft en mi [Discord](https://discord.gg/wfmsNxRpZ8)
+- 👾 Owner de [Saelum](https://discord.gg/wxggsv9MH3)
+
+**Necesitas ayuda con tu servidor de minecraft? Puedo darte la mano**
